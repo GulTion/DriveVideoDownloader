@@ -1,13 +1,20 @@
+
 import requests
 from urllib.parse import unquote
 import sys
 
 arg = sys.argv
-url = f"https://docs.google.com/get_video_info?docid={arg[1]}"
-# print(url)
-s= requests.Session()
-r = s.get(url)
-data = r.content.decode()
+
+def downloader(id, path, q):
+    url = f"https://docs.google.com/get_video_info?docid={id}"
+    s= requests.Session()
+    r = s.get(url)
+    data = r.content.decode()
+    urlDownload = parseURL(data)[str(q)]
+    r = s.get(urlDownload)
+    with open(path,'wb') as f:
+        f.write(r.content)
+        print(path)
 
 def parseURL(urlC):
     qual = {}
@@ -20,11 +27,4 @@ def parseURL(urlC):
     
     return qual
 
-
-# urlDownload = parseUrl(data)
-urlDownload = parseURL(data)['18']
-print(urlDownload)
-print(sys.argv)
-r = s.get(urlDownload)
-with open(arg[2],'wb') as f:
-    f.write(r.content)
+downloader(arg[1], arg[2], arg[3])
