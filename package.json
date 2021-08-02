@@ -1,0 +1,21 @@
+{
+  "name": "drivevideoscapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "axios-cookiejar-support": "^1.0.1",
+    "config": "^3.3.6",
+    "googleapis": "^39.2.0",
+    "metalsmith-google-drive": "github:leviwheatcroft/metalsmith-google-drive",
+    "puppeteer": "^10.1.0",
+    "puppeteer-core": "^10.1.0",
+    "tough-cookie": "^4.0.0"
+  }
+}

@@ -1,0 +1,852 @@
+{
+  "name": "[AlgoExpert.io]",
+  "type": "folder",
+  "items": [
+    {
+      "name": "150 Interview Problems",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "1TVKMg6EEFU2L-pd2henBOQZPsVrNaksn",
+          "name": "Zip Linked List from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1y0XXbhUYuNIgvZOmP3-0DSqlLz4Yf1ls",
+          "name": "Validate Subsequence from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "18yvLNxmiZpd5jaWlSiditkZ8MCGjRRlw",
+          "name": "Waterfall Streams from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1PzvyybQszbQXaUq5DZG-Ic5AqIp5Z-pW",
+          "name": "Valid Starting City from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1SdJ8WT9TbhRo74aDZHV9vVMeoqrRtz_r",
+          "name": "Valid IP Addresses from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1f1bJ8KBqY5kQ30sZwU0qpYCECtz2ozjA",
+          "name": "Tournament Winner from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "16qvC7yiGqPJUpVJzHleYyHjl9AWynNl1",
+          "name": "Three Number Sum from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1-sHCFhB3oHCTRB4lQ44g3WMqvahFi9L-",
+          "name": "Sunset Views from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1JNkgytVEfxVWqkv8xc9QaJf2I1j7yM3j",
+          "name": "Sum Of Linked Lists from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "13oDlD8MDnxjtV7_UHMx67dtFXQk1tMMa",
+          "name": "Three Number Sort from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1rmU0CZg0LavVyVH3v-k4QHXmhwmrO8ER",
+          "name": "Task Assignment from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1jZZpl4V7CL7gT86jUvU4y2Oel_D1jFBZ",
+          "name": "Spiral Traverse from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1T3ZzfpTj2aWbaUNlRYUFRjGUZ1IdrzHD",
+          "name": "Staircase Traversal from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1Q83MvqR91ByFvtQG4GfLFMoodII7NOfr",
+          "name": "Sorted Squared Array from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1hWvmeLG5-685OC3be7PcMXlGE0eecnPr",
+          "name": "Sort K-Sorted Array from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1CTWaESHTWqH7ysVWnQFLW6aiwO-zEmCw",
+          "name": "Square Of Zeroes from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1fS1cqUb7FMe2ED6NLJ9iBvclTKpuhzM-",
+          "name": "Solve Sudoku from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1mCBD6Lx3eNa4sTNbvma26CqX58jaQRoe",
+          "name": "Shorten Path from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1-hhaAPbishEiX11vAlb9u7Xuu0GyAssI",
+          "name": "Shift Linked List from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "11BMV_FzaffmlLZGp7BUAfebrAgRm51Gr",
+          "name": "Right Smaller Than from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1b_8Ni7snXvC26--sHRMxeFw92iMPjAOP",
+          "name": "Run-Length Encoding from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1bwpRM6-RrXRkPfY_n_wjk_2MQTuUg5mr",
+          "name": "Right Sibling Tree from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1tAaiMuIkHtgijfvLGUiAI5I3MA7gj1i3",
+          "name": "Reverse Linked List from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1a8vQITGv9L6ODXIUP6umZQ0B_QiZSgOG",
+          "name": "Reverse Words In String from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1VR98y0pHipjoDCYAMtiNB8AhKukDjzwC",
+          "name": "Remove Nth Node From End from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1UMy7Ilb4OvW919O_FfBHBB2RemOIWdz8",
+          "name": "Remove Duplicates From Linked List from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1sn4oSpldTqwIS0w_ad8-vU2E8Plci7ew",
+          "name": "Remove Islands from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1ItTwPoUMRQ7SemUk0-vuY-Y8ykQNHP4d",
+          "name": "Rearrange Linked List from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1lIzNmwNNk0bb8FCeA4Q5OSWcZANaJo5D",
+          "name": "Reconstruct BST from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1g4d9Tw980KfXxvOfyryP3ipNKk1Swmzh",
+          "name": "Product Sum from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1JUyn7tPZNww193U-sBJbp5DIGOx1pibT",
+          "name": "Phone Number Mnemonics from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1XtpMCUF0jSomZMQtSyaZWJiRG7pdtY0Y",
+          "name": "Rectangle Mania from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1hZxObnok3mWKW83QYI_wZkdOVZdNeoWy",
+          "name": "Number Of Ways To Traverse Graph from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1BUMdULV5ny4qGgfR3XqdZIRdD4CPBQok",
+          "name": "Node Depths from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1KV0_4NR3VoStcZ1ksnAGW4_UIEIz6xE_",
+          "name": "Nth Fibonacci from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1Ju4wmLEFfZQnfNBWzlKkuVW73-tgKlFe",
+          "name": "Non-Constructible Change from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "11At9NLqRjTrGjPn1akUPwxoo0RGdSBKb",
+          "name": "Monotonic Array from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1PI6KJPykNHvZ94fvipLEwUbeSnEJ0N3a",
+          "name": "Minimum Waiting Time from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1pxELsSkO___-Wkx-glFMPOZnuJSDZ-hw",
+          "name": "Minimum Area Rectangle from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1k8Yx7lz-rTBUHTpCQH0QXB0h9e2eYHx5",
+          "name": "Min Height BST from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1hOUkllq2oxOQFop0HXcKgEY56qfdK7MR",
+          "name": "Merge Sorted Arrays from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1IchWYUWFJOGhnYwCTFCunIGtBXie_rmh",
+          "name": "Lowest Common Manager from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1p57haeG6m1zWOmdnqoDlekasctN94uHr",
+          "name": "Longest Peak from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1U5cSs7WJ8hwt52HieRkgejjGLArtYasu",
+          "name": "Linked List Palindrome from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1ITK4anXApzgS8mnsSSSBFowry4skwKzT",
+          "name": "Longest Balanced Substring from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dc4K_ripOX2lldUexq7dB8lWbc7sgFCl",
+          "name": "Line Through Points from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dJN7XIyRKXx78d34ZnWXa2B-apjLSOMj",
+          "name": "Linked List Construction from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dFdjZcbhziZ0ewWYqUh9yQtJFOqmgYPk",
+          "name": "Interweaving Strings from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1JWZ1fHXiwr1X67M3FnooIs3i34korHZW",
+          "name": "Index Equals Value from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1Oyut6LTCh2Goe7xsZWRUJ_twRR9vkwvu",
+          "name": "Height Balanced Binary Tree from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1P5zb2olVka6FtHYxPHssPJfyw3k_WKX5",
+          "name": "Generate Document from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1RzHnIgcN6mFdvqic8i7Sd_tdL_Wo2cBD",
+          "name": "First Duplicate Value from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1sXQrHmfWMSn2lWiDWJw2u6h5YCb80Klx",
+          "name": "Generate Div Tags from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1wOUVndfzTi7SlDiHuZySFVjtCmfpl9xo",
+          "name": "Flatten Binary Tree from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1gD67tn2B6H85LojjaWGK6UtDRaFngKyj",
+          "name": "Find Successor from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1mYmktpYnGZetDl20-QE-iiOdNLL1_EJt",
+          "name": "Find Three Largest Numbers from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1g1e1xqzleSULGpvcaUWNfIL8qM7I57DZ",
+          "name": "Find Kth Largest Value In BST from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1tj7UDSjsp1q22ap_o-8t4QCxA9LNNooR",
+          "name": "Find Closest Value In BST from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eUUmj4xzdjMO1Dt2EXs4yolGlCB3cn5q",
+          "name": "Class Photos from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dqLf25zrjjxBmElrqk53Ei0nlo38Ng_t",
+          "name": "Find Nodes Distance K from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1NYF7pLEg_b__FzsND5Kfpi-Bw2HtI7bs",
+          "name": "Cycle In Graph from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1OGtyQUdhLUH_PhMl0NoiVxUNyUmEruOW",
+          "name": "Dijkstra's Algorithm from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1g5b4jJrl6O5YT_tASaWHZXeua4iinJr_",
+          "name": "Depth-first Search from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1ndxDZsCRDcvJhCkUVfIu1z5s7hfaOpEX",
+          "name": "Branch Sums from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1zT2W4k8EBCBB3tM7g1bhgE8xpWsHeGVE",
+          "name": "Binary Tree Diameter from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1rYhA68vrmBykVdxHgnnSLsJFttdd_Wgv",
+          "name": "Binary Search from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1TyY-uaVYf-YHrKb7eaZP2egmb4yHR3KS",
+          "name": "Array Of Products from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1Lv6LeyYX9AAxvMB0LvTInHqyRvcRE2GQ",
+          "name": "Apartment Hunting from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1AVYB9Yw5OW6UmbjNmfaee9aheV80VuUV",
+          "name": "All Kinds Of Node Depths from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1WXduxOVZ9pvNYq6JA42ll3xWfOoyKS8Z",
+          "name": "Airport Connections from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1uGKjRi4gzN_bFGKy09X1jw4K298AHMvN",
+          "name": "A Algorithm from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1rZBcwpPK4wUMFkeOAOJd1X5zmgGiJBkM",
+          "name": "Two Number Sum from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1Zpfsr1kyJcZwhlcF1vwURymEb-ltkKGG",
+          "name": "First Non-Repeating Character.mp4 from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1vOBp9jNIGtCD2RyBqUYPSj0zycbdN-Df",
+          "name": "Count Inversions.mp4 from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "18TvTJZsGAlz4H9gYED_M7q4WADs4ppIl",
+          "name": "Ambiguous Measurements.mp4 from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1VaNnQ--lql3E1LRKCPofmzfTx4o_AQdp",
+          "name": "Largest Rectangle Under Skyline.mp4 from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1Ab9bWnLmexgBnQ3pYgBVdA2otLNc3VaG",
+          "name": "Merge Overlapping Intervals.mp4 from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1vgSkBwvjK7OiSxDW7YgKPU-6kxbciF02",
+          "name": "Tandem Bicycle.mp4 from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1oln9hS4zFVXM17d7zqulVP3E_ZKCNgZ7",
+          "name": "Validate Three Nodes.mp4 from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1WchyXfbVBdrup7ta01U2jofBGWVFto3T",
+          "name": "Detect Arbitrage.mp4 from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1uqv3TnkwqTgDDXU33MHEH6kF309odnbU",
+          "name": "Maximum Sum Submatrix.mp4 from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1R0oU3AKHA2cRnSFhneQbGTgKEE9zRttZ",
+          "name": "Laptop Rentals.mp4 from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    },
+    {
+      "name": "Behavioural Interview Prep",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "1nMnwmgrGtSFssjr7axpUp2UGDG6HoTe9",
+          "name": "1. Introduction from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "11FjhlhLk8sWwbhg48KJ2B2oO_B78hdfA",
+          "name": "2. What Are Behavioral Interviews from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "10jgoIlIYO8QqLQ-EUiUagsrcg_4GjI5c",
+          "name": "3. General Tips from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1wurzAZzUqdr6xzcVa66Pmj6Gg2ckjcu1",
+          "name": "4. Low Performer from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1HyXUCzLGN-ZoILb6QzRx-3V2qzg0qdW8",
+          "name": "5. Team Conflict from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1RH6Mjo2mAb8kKsx2KcLWrByS6neyC7-j",
+          "name": "6. Interest In Company from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1Enzvwg9YTQntNvsKSWya8xNKrvgNG1iN",
+          "name": "7. Strong Disagreement from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "13PevtLkq3nA3AFNtRQ4CqSM0Vswb8KEY",
+          "name": "8. Sudden Onboarding from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "148PXbWsg6wxBZXB-ohMPrrKhr3BNEcJH",
+          "name": "9. Work Distribution from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1AbllEWfQbJHYEw1-ocO5rgroiNC9MymD",
+          "name": "10. Past Mistake from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1WqQ9BZFs6K5lylIfEQbs0QrGpTEaQVuR",
+          "name": "11. Challenging Project from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1410bVVvaZCKlO6UGT2swKfJATp3131i_",
+          "name": "12. Production Outage from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1JkBg42WzshnzYHWXDvFJ56tyo--mYm-s",
+          "name": "13. Tough Feedback from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1tELoodEbWYFDvkLOkZHhtr8HZAw6e_NV",
+          "name": "14. Strengths And Improvements from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1hpvVXBQRnUqlR9GaytWbMJujQuIGvcn3",
+          "name": "15. Comfort Zone from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    },
+    {
+      "name": "Data Structures",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "1NYNE9OnIPnKQSh-m1hmU1at3S4r9W3tx",
+          "name": "1. Data Structures - Introduction from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "19s6GgGvAev9QYDXAQnL2qaKSId7YKUim",
+          "name": "2. What Are Data Structures from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dm3XehB0aci4dFqncvOuh8K8sgpYTh-V",
+          "name": "3. Complexity Analysis from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1QfqQiP_783SR_WU9OYzO_aQQmom74HtB",
+          "name": "4. Memory from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1waxMQ564hz2pE70LRYH7vjn3HXOxDpjy",
+          "name": "5. Big O Notation from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "18kfhg9AyDuzEzUgaAB_9AIpekLFOL3jI",
+          "name": "6. Logarithm from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1hOHT2Zqtvq4WqYSoAkn_lnu_gUVfcAOr",
+          "name": "7. Arrays from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eZoLZw-m1mxuYqMyd4UU9eEF3pDIHIFv",
+          "name": "8. Linked Lists from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1ocyZc-wlbDrlcUonjAGPT7V-3ws_7Lhg",
+          "name": "9. Hash Tables from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1r00O930W7s8wAjiS0ukxAv8c0TnnaFbC",
+          "name": "10. Stacks And Queues from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1KwAyb5D-62Z9G1s8GAFayndvZHy_Gbah",
+          "name": "11. Strings from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1jrNIpL42LNayO0KbtoAufOKaKh_NXjdQ",
+          "name": "12. Graphs from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1Kgn9wkF5YFfikuNHs5dkKzbU8nHktTjJ",
+          "name": "13. Trees from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    },
+    {
+      "name": "Interview Tips and Tricks",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "19hKRDqmuqNaQHBG-TtIGFMBIYdhHm32m",
+          "name": "1. How To Best Prepare With AlgoExpert - Coding Interviews from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1JyQjEaKvIP7yYgtoY1uPy2aI5G3-1Prg",
+          "name": "2. Coding Skills - Coding Interviews from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1YfdTRQDMcwJIYprQl1p3y6Y9-sgnvCN4",
+          "name": "3. Problem Solving Ability - Coding Interviews from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1xqnzMkeBNO1vvUIcQNoplZCq0k5ErqsO",
+          "name": "4. Communication - Coding Interviews from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "10PPKuFZfWCWU5lQqo09dQyO_9_D4g0wh",
+          "name": "5. Culture Fit - Coding Interviews from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    },
+    {
+      "name": "System Design Fundamentals",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "1x8bODwKY-QVkMezOTolpl8T2hTYJwC6M",
+          "name": "1. Design Fundamentals - Introduction from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "103D5xiWgB5YFpcjFQ9vDQDXKob3RK_w0",
+          "name": "6. Latency And Throughput from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1myumOy-KxSs-gWqAl2t3I8TFhqU_w0-z",
+          "name": "9. Proxies from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "13iOH16x9E5P6djoFUDihMwZSkjcgzbyp",
+          "name": "14. Specialized Storage Paradigms from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1u3393Kjh2v0N8Gi5KtDHyOC_IGNmacWY",
+          "name": "19. Configuration from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "180Ef2D4WL5TWtnUHKPq3crKGsM9ni-tJ",
+          "name": "22. Publish - Subscribe Pattern from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1DryGkAwG8tcUA_OpGT7L7bDGp8F_zoXc",
+          "name": "23. MapReduce from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1ylvemIDC4BDt9fxb7lRGscZNZPYbtlK6",
+          "name": "24. Security And HTTPS from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1_I3xW7nZGu6yA_MEltkurAnocCcGBpa7",
+          "name": "25. API Design from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    },
+    {
+      "name": "System Design Questions",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "1v-RDcvi90Dyad_5xw_CujniiTUmqPAkL",
+          "name": "[algoexpert] 8 Systems Design Interview Questions.pdf",
+          "mimeType": "application/pdf"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1DHxrVEwW2ukmQxPD3SDXnO6PUXGArn5F",
+          "name": "Design Airbnb from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1LHNBQX62eqADzoSD_I9Ocxrt-P_IeDV6",
+          "name": "Design Netflix from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1BZtFiEzl7CAGQY4Aco96jTuB5_LpGjGp",
+          "name": "Design Slack from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1ubegenXh13dNbuETBb6ZIV84FEP5Dw60",
+          "name": "Design A Code-Deployment System from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "11hwZj1q0PIGoFirE0AENEYs_7KM4ua0f",
+          "name": "Design The Uber API from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "13bj03Cwzx6Yh0iLZcOx6_jeJACvmcsSO",
+          "name": "Design AlgoExpert from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1flDcKlLqGt8vTiH6pgOwz4wOE9jKAX7L",
+          "name": "Design Facebook News Feed from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1Z9hlhoZqRfzlo0mUKXujW9GjTiAOkQZS",
+          "name": "Design Google Drive from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1v78VnYvJcB_UCDolN76qxs6sF6jzLeJu",
+          "name": "Design A Stockbroker from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "16zF4udyus8j9Id1k1U9FYtg0wLtrsnGr",
+          "name": "Design The Reddit API from Clément Mihailescu.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    }
+  ]
+}
