@@ -22,7 +22,7 @@ def parseURL(urlC):
 
 
 # urlDownload = parseUrl(data)
-urlDownload = parseURL(data)['22']
+urlDownload = parseURL(data)['18']
 print(urlDownload)
 print(sys.argv)
 r = s.get(urlDownload)
