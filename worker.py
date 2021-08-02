@@ -12,7 +12,9 @@ def recursion(obj, p):
             recursion(folder, p+"/"+obj['name'])
     else:
         if obj.get("mimeType")=="video/mp4":
-            print(p+"/"+obj['name'])
+            # print(p+"/"+obj['name'])
+            g = p+"/"+obj['name']
+            os.popen(f'python3 ./downloader.py {obj.get(id)} {g}')
 
 
 recursion(dump, "df")
