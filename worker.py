@@ -1,7 +1,7 @@
 import json
 import os
 
-f = open("[APPLIED] GATE 52.83GBo1hjHksjxMKbbIs3EOaR5f80qPDsw9ecgS.json")
+f = open("folders/[APPLIED] GATE 52.83GBo1hjHksjxMKbbIs3EOaR5f80qPDsw9ecgS.json")
 
 dump = json.loads(f.read())
 print(dump['name'])
@@ -18,3 +18,4 @@ def recursion(obj, p):
 
 
 recursion(dump, "df")
+#0.0.2
