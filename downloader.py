@@ -11,6 +11,7 @@ def downloader(id, path, q):
     r = s.get(url)
     data = r.content.decode()
     urlDownload = parseURL(data)[str(q)]
+    print("HERE",path)
     r = s.get(urlDownload)
     with open(path,'wb') as f:
         f.write(r.content)
