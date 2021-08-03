@@ -20,6 +20,7 @@ def downloader(id, path, q):
 def parseURL(urlC):
     qual = {}
     urlC = urlC.split('&')
+    print(urlC)
     fmt_map = urlC[17]
     qstring = fmt_map[15:].split("%2C")
     for i in qstring:
