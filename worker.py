@@ -47,7 +47,7 @@ def recursion(obj, p):
         if obj.get("mimeType")=="video/mp4":
             # print(p+"/"+obj['name'])
             g = p+"/"+obj['name']
-            os.popen(f'python /content/DriveVideoDownloader/downloader.py {obj.get("id")} "{g}" 22')
+            os.popen(f'python /content/DriveVideoDownloader/downloader.py {obj.get("id")} "{g}" 18')
 
 
 recursion(dump, "/content/drive/MyDrive/unflag/18")
