@@ -44,7 +44,7 @@ def recursion(obj, p):
         for folder in obj['items']:
             recursion(folder, p+"/"+obj['name'])
     else:
-        if obj.get("mimeType")=="video/mp4":
+        if obj.get("mimeType")=="video/mp4" or obj.get("mimeType")=="video/x-matroska":
             # print(p+"/"+obj['name'])
             g = p+"/"+obj['name']
             os.popen(f'python /content/DriveVideoDownloader/downloader.py {obj.get("id")} "{g}" 18')
