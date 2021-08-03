@@ -1,0 +1,685 @@
+{
+  "name": "Mastering Data Structures & Algorithms using C and C++",
+  "type": "folder",
+  "items": [
+    {
+      "name": "3. Required Setup for Programming",
+      "type": "folder",
+      "items": []
+    },
+    { "name": "6. Arrays Representations", "type": "folder", "items": [] },
+    { "name": "7. Array ADT", "type": "folder", "items": [] },
+    { "name": "21. Hashing Technique", "type": "folder", "items": [] },
+    { "name": "4. Introduction", "type": "folder", "items": [] },
+    { "name": "22. Graphs", "type": "folder", "items": [] },
+    {
+      "name": "5. Recursion",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "1cYqpUUFBgG5cMZ64nPQqWDsRUjBD468Z",
+          "name": "26. Let's Code Taylor Series Iterative.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    },
+    { "name": "23. Asymptotic Notations", "type": "folder", "items": [] },
+    { "name": "9. Matrices", "type": "folder", "items": [] },
+    { "name": "8. Strings", "type": "folder", "items": [] },
+    { "name": "15. Trees", "type": "folder", "items": [] },
+    { "name": "17. AVL Trees", "type": "folder", "items": [] },
+    { "name": "16. Binary Search Trees", "type": "folder", "items": [] },
+    {
+      "name": "2. Essential C and C++ Concepts",
+      "type": "folder",
+      "items": []
+    },
+    { "name": "14. Queues", "type": "folder", "items": [] },
+    { "name": "19. Heap", "type": "folder", "items": [] },
+    { "name": "18. Search Trees", "type": "folder", "items": [] },
+    {
+      "name": "13. Stack",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "1gkG_E-6bXUBIR-av03jP_pSvp5EgT4R-",
+          "name": "3. Implementation os Stack using Array.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1gZq-lX3QYAQyPKO01vzjHfbQRh441cqB",
+          "name": "14. Associativity and Unary Operators.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1fktjHO7F9W7C2rl6WbQ_qWivgFDVhnXB",
+          "name": "20. Evaluation of Postfix Expression.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1fkNbxDJw722uVwSD2Jh1EsB1I-HC6r0T",
+          "name": "19. Student Challenge Infix to Postfix with Associativity and Parenthesis.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1fW_8ET-Puu3w7UNID9Y4Eq9TlJRvyfya",
+          "name": "6. Stack Operations using Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1f30t-C37-7KhBn0UE4uhxPPQOBpRBcuL",
+          "name": "17. Program for Infix to Postfix Conversion.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1f7vI1CnJHKe9_v_t6DXeySu9ux3anaWa",
+          "name": "2. Stack using Array.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1en_f_y6yG4DYQxVYaUqpJin6qM1siSOl",
+          "name": "21. Program for Evaluation of Postfix.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1e2FZSTwWCiLgvctTz0GhL4a6fkN-Q1hO",
+          "name": "15. Infix to Postfix using Stack Method 1.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1e8m7XKcjP62_XwkYuwAyuVeKRHaV6UEz",
+          "name": "4. Let's Code Stack using Array.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dpleGbK2cCpV1Jh2V1l4a1Oy2ViKTB2j",
+          "name": "9. Parenthesis Matching.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dZHpnGlT1JvZFIKqs00nfyqLaxg4yJYR",
+          "name": "12. More on Parenthesis Matching.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1d8XPdzIb8zP4OPXaEvs-NZmIlZ6qQxfK",
+          "name": "18. Let's Code Infix to Postfix Conversion.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1cyfHkn0KKPmOyvswpRuMcoJUAnxsGyMH",
+          "name": "5. Stack using Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1cIWPJQiFF1YowbBaJJ5jn-M3rD_idnnE",
+          "name": "7. Let's Code Stack using Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1cMTe3YvDubAWd6zabezYHqWKI5nL8PQx",
+          "name": "8. Let's Code C++ class for Stack using Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1c2PyBIYaRS83EsuSNJVj4zlrGAt-IV3F",
+          "name": "16. Infix to Postfix using Stack Method 2.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1b7Dbk7izcKWg3rKZT1usUNCz1F2uQqgR",
+          "name": "22. Let's Code Evaluation of Postfix.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    },
+    {
+      "name": "12. Sparse Matrix and Polynomial using Linked List",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "1gjv6KlHLPoV3oVwiA58J9afGHFin-OrR",
+          "name": "3. Let's Code Polynomial.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eoRJOWcQYfs3owZiMdLMgEk21A1HBZlg",
+          "name": "1. Student Challenge  Sparse Matrix using Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dpjl_Nc-vIYwLlpbDNr_r_DpA5bSYClq",
+          "name": "2. Student Challenge Polynomial Representation using Linked List.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    },
+    {
+      "name": "20. Sorting Techniques",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "1h-BPPw1LxUW3LlkJNab5QcJEtxurE3HL",
+          "name": "16. Analysis of Quick Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1grimp25734oqBO333LgVBhC9zAe5enjm",
+          "name": "2. Bubble Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1gpsBqTjvlZkXnBpAZSQSYXSs0KWbKUM3",
+          "name": "28. Shell Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1gitktRyzpyBpuz1pTRDSElYJgQhbo-uO",
+          "name": "22. Recursive Merge Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1gS-vi3faZXEsaI_YHgKFP4FzRg8HidVq",
+          "name": "19. Merging.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1gGAuanEU61Uo8Y42xitXvHhRaVcz3qEf",
+          "name": "27. Radix Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1gEC3_uqnN213CL_hkkx1yPlQRupdyd4a",
+          "name": "17. Analysis of Quick Sort Continued......mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1fbDbE_gtnHaitnoejjyt8d0xyIRikQr6",
+          "name": "20. Iterative Merge Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1faffROmu9TUxhmI6cK2ADY6FD6kcKIEC",
+          "name": "24. Count Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1f0PKHS-9fHBaoSOYLAM4wpioHPiKXT7V",
+          "name": "10. Selection Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eie6Ec8dC9IyDjXVhS9_30gJSH3G9tM6",
+          "name": "26. Bin  Bucket Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eCfL7Es52O-ozt-KGvX7QZVJouAb_NCo",
+          "name": "1. Criteria used for Analysing Sorts.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dpLcMcTUiKckR89qaj4QhenbJ-0hU5V9",
+          "name": "15. Quick Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dGefzJOmG3NNlMLITY0XwaU7dPz6mr0j",
+          "name": "14. Idea behind Quick Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1d4BnKMozHKIMtFrFcWq9-wpu6M_gl365",
+          "name": "4. Insertion Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1crIjBnHQzn8RbxfePqwzfKyM0cXbeQxQ",
+          "name": "21. Let's Code Iterative Merge Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1cqFuh1uU2TVzn__3zKBZChFUx0SRaPwP",
+          "name": "6. Program for Insertion Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1cRaQXoPcSR1RS6xqcoS9h2as4wPQmdEP",
+          "name": "18. Let's Code Quick Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1cOxYrv6eeg9CXXxyJfLXwrNOh0cf5RmP",
+          "name": "7. Analysis of Insertion Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1cQmaVJSq9-N9SInwZUh1PCDW9qv2fKao",
+          "name": "3. Let's Code Bubble Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1bhvdsMdvYn1znVs2Bvj5gKEXdykdxYuV",
+          "name": "25. Let's Code Count Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1bTsx3vFA5JkvB_IU0pCDoNKMJHznavDh",
+          "name": "12. Analysis of Selection Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1bgVO-4RnxlTw-IBJji6Y2ThVU-dkVyrZ",
+          "name": "11. Program for Selection Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1b34sIpHNBHpC0Jng6Sx0BnAldJv10DK-",
+          "name": "9. Comparing Bubble and Insertion Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1aBJ6mNbJPKftxDHyZvaDoHUZcQxFOrT4",
+          "name": "13. Let's Code Selection Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1_WCcUdWMDqNuO-PKzyTfjdwDkvQUsFnL",
+          "name": "23. Let's Code Recursive Merge Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1_YIyy7u-rAfH_urJQpx3-g8JG0U5MTCI",
+          "name": "29. Let's Code Shell Sort.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1_tm6LSibDko13Jli_YqpshHYmnFlsOBp",
+          "name": "8. Let's Code Insertion Sort.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    },
+    { "name": "1. Before we Start", "type": "folder", "items": [] },
+    {
+      "name": "10. Sparse Matrix and Polynomial Representation",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "1gg9Hc9OQLqqSPRZLHa58EpR5YeWWk_co",
+          "name": "5. Program for Adding Sparse Matrix.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1fZGov59nBk8B04k-Dz-FF-e0K4mqqiZo",
+          "name": "3. Array Representation of Sparse Matrix.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1fWz795_Um86xGtmntTHvaNNFnDy5s28k",
+          "name": "2. Addition of Sparse Matrices.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1ey6Z9ulsovCYErmc6N0XWvoJiaDyJCtr",
+          "name": "9. Polynomial Representation.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eiJIgK0q1f0yJrGa4SdsyA4kBcnKArcM",
+          "name": "11. Polynomial Addition.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eW1aFLTOnyKMenniRa8HGkL5EIFOME_U",
+          "name": "1. Sparse Matrix Representation.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eLQmlEb2Q92JIFPH81KuPFdy9O4R3lWh",
+          "name": "8. Let's Code Sparse Matrix using C++ Continued......mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eEXrVAhQQd_TGEKcgDkiDtnpFfOpPfQP",
+          "name": "12. Let's Code Polynomial.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1do2GwC1_tskjYrzBDt0Qn8PqC5n3GSAX",
+          "name": "6. Let's Code to Add Sparse Matrix.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dD4M3j5-TkGh8FLtT6s_5rf0WYvjHKkl",
+          "name": "4. Let's Code to Create Sparse Matrix.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1clzHP2gFqEHlExZNa_PDBijwWA39CS1o",
+          "name": "10. Polynomial Evaluation.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1c_prg1ardypTyL0-1YPqJNJpkUCdt4pk",
+          "name": "7. Let's Code Sparse Matrix using C++.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    },
+    {
+      "name": "11. Linked List",
+      "type": "folder",
+      "items": [
+        {
+          "kind": "drive#file",
+          "id": "1gO9lBPU1GsJazOgl4RoAJI9hjtsBzNya",
+          "name": "6. Recursive Display of Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1gGC6jVrSDR8s7EUsFGo4gBH1omk2cV6P",
+          "name": "33. Merging 2 Linked Lists.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1ftsNIjCVhve8X4EGURzfqVW1DsGZVp8e",
+          "name": "22. Deleting from Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1fCikiloVsxQCYwDj_95__RD_ubGJfEei",
+          "name": "54. Comparison of Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1evwYMYxyeSOi3N9XEffvXkARTiWdtkaZ",
+          "name": "29. Reversing using Sliding Pointers.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1emDe1ATx1z8Mm9mezVQAMU1rY2LjQW13",
+          "name": "41. Inserting in a Circular Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eiXJex4xJZmkh_hNsqw_HlU5-rDwnOJC",
+          "name": "56. Student Challenge  Finding Middle Element of a Linked List..mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eZB8kr_34xf0KPecBw7yIOJEsbx86Qlq",
+          "name": "8. Counting Nodes in a Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eXyHbj3VfkzsbYG3gLOCzailnMlJIIOP",
+          "name": "55. Comparison of Array with Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eSY_CzOBucNxmFiuatHJphjTL4hfpBoG",
+          "name": "47. Insert in a Doubly Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eTaSEu1ep14l3srfgKXBYtl5TzHdCwZL",
+          "name": "57. Student Challenge  Finding Intersecting point of Two Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1eO8SDbDPxNDL7n7Eu-v6LBNObjRfbMGo",
+          "name": "37. Let's Code a C++ class for Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dt-yKwiXKt-2Bo3AWEbvLYOCgdJF2lq0",
+          "name": "3. More About Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1doRLHgRA-eFlo4JPlDROQzbMkz5tMzIA",
+          "name": "39. Display Circular Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dlH5nVdNojLoC6XgwUYpt2_8BwfWGh4i",
+          "name": "49. Deleting from Doubly Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1diaRVaNukrIBl6BenRjkzL6FtZkRIfCY",
+          "name": "24. Check if a Linked List is Sorted.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dWs7FspPXMxT-OpibkhfkI9dFShyYk74",
+          "name": "38. Circular Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dFgKSsYMWlFcmb37CyGji6DiYqJWHHCW",
+          "name": "43. Deleting From Circular Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1dDiKnfkRe0IdnPZ_BQ8_6MWwELza_duQ",
+          "name": "28. Reversing a Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1d517YSty7SE-DHrHCrgjRB-sgi7dutxd",
+          "name": "53. Circular Doubly Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1cqmnCEgULRI37Px8wKmw5lz8U3f60xaW",
+          "name": "5. Let's Code Display for Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1ci0yWQu0nNLi0zVfLJktbeEN0oD0IHo2",
+          "name": "51. Reverse a Doubly Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1cl_RfGTlG6LvjgMZ_OSZp4PlNsI2OoPW",
+          "name": "26. Remove Duplicates from Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1cZ-AOPtcye-EX8pnRgKtpMAYkTuad3eb",
+          "name": "4. Display Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1cbB7BrAfxwjVr0GGiyvrQDKiFP9Hj1QW",
+          "name": "34. Let's Code to Concatenate and Merge Linked Lists.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1bhOGZROEtLRwD8CCenUo023_98xy5k3z",
+          "name": "23. Let's Code Delete on Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1bipJHpzWxegJv6WV0V2IWgBGSjSAomEP",
+          "name": "31. Let's Code Reversing a Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1bCE3SIBW8ieCqA4XZNRQQRqKqTW76ukR",
+          "name": "42. Let's Code Insert for a Circular Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1bZQ2BG_0dFX_X7BEPUWg3kweinKCRWj-",
+          "name": "45. Doubly Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1b2CQYUYhXOetD74OES-ffJkjmKb7wIfv",
+          "name": "40. Le's Code Circular Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1aaztqfnUQGuyyjCciZVWLyzuc14N3BXW",
+          "name": "9. Sum of All Elements in a Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1b-B3bAz9bMveFrn20vp_vbknI7M-Yjk7",
+          "name": "32. Concatenating 2 Linked Lists.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1a6c0lY4ogOuE09a8KiiHUR_rRopMNXR1",
+          "name": "46. Let's Code Doubly Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1a7t_BomksAgcG5ITIHSuKBLmmsoh1MyC",
+          "name": "48. Let's Code Insert for Doubly Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1_XPu0O7-xXQ5AUlO1_m_0NlSR0f-0Unj",
+          "name": "50. Let's Code Delete for Doubly Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1___72kIxiN3B1sEhUWV_aL-5R6-o7GFP",
+          "name": "44. Let's Code for Circular Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1a-K31WwK9NZ1mPEv88ByDNeZL1TAFTk6",
+          "name": "36. Let's Code to Check LOOP.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1_S2iPInW070dDzCc5I13xkQz5qmSMGvV",
+          "name": "27. Let's Code to Remove Duplicates from Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1_TkEYhI7vqqJ9v3-I075C6a3ysnWF7_5",
+          "name": "25. Let's Code to check if Linked List is Sorted.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1_8PC3UK0ernecFldeW2O_I2U2W1SuoCE",
+          "name": "52. Let's Code Reverse for Doubly Linked List.mp4",
+          "mimeType": "video/mp4"
+        },
+        {
+          "kind": "drive#file",
+          "id": "1_DCWTC7WmJTC62qDn8gvkHl0NZMfjXQH",
+          "name": "7. Le's Code Recursive Display for Linked List.mp4",
+          "mimeType": "video/mp4"
+        }
+      ]
+    }
+  ]
+}
