@@ -40,7 +40,7 @@ def parseURL(urlC):
 
 def recursion(obj, p):
     if obj.get("type")=='folder':
-        !cd {'"'+p+'"'} && mkdir {'"'+obj.get("name")+'"'}
+        os.popen(f"""cd {'"'+p+'"'} && mkdir {'"'+obj.get("name")+'"'}""")
         for folder in obj['items']:
             recursion(folder, p+"/"+obj['name'])
     else:
